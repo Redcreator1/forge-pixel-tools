@@ -2,7 +2,7 @@
 
 Trois mini-outils web prêts à l'emploi. Un seul fichier HTML par outil, zéro dépendance, zéro compilation, déploiement immédiat.
 
-🌐 **Démos live** : https://forge-pixel-tools.af8345390.workers.dev/
+🌐 **Démos live** : https://forge-pixel-tools.pages.dev/
 
 ## Le catalogue
 

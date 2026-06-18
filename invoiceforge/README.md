@@ -14,7 +14,7 @@ Ouvrir `index.html` dans un navigateur. Aucune installation, aucune dépendance.
 
 ## Démo
 
-https://forge-pixel-tools.af8345390.workers.dev/invoiceforge/
+https://forge-pixel-tools.pages.dev/invoiceforge/
 
 ## Licence
 
